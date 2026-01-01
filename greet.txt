@@ -5,4 +5,6 @@ hi
 hello
 hi
 bonjour
+hola
+shalom
 
